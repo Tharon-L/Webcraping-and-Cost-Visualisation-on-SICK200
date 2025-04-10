@@ -10,14 +10,14 @@ This is a project for a programming course at TUKE for a teacher. The idea is to
 
 ## Table of Contents
 
-1.  [Introduction](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#introduction)
-2.  [Application Overview](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#application-overview)
-3.  [Web Scraping Component](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#web-scraping-component)
-4.  [Main Features](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#main-features)
-5.  [Data Flow](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#data-flow)
-6.  [User Interface](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#user-interface)
-7.  [Installation and Setup](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#installation-and-setup)
-8.  [Bibliography](https://claude.ai/chat/b91e9072-e958-4dfa-838d-014d4bc345ad#bibliography)
+1.  [Introduction]
+2.  [Application Overview]
+3.  [Web Scraping Component]
+4.  [Main Features]
+5.  [Data Flow]
+6.  [User Interface]
+7.  [Installation and Setup]
+8.  [Bibliography]
 
 ----------
 
