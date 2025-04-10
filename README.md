@@ -10,14 +10,14 @@ This is a project for a programming course at TUKE for a teacher. The idea is to
 
 ## Table of Contents
 
-1.  [Introduction]
-2.  [Application Overview]
-3.  [Web Scraping Component]
-4.  [Main Features]
-5.  [Data Flow]
-6.  [User Interface]
-7.  [Installation and Setup]
-8.  [Bibliography]
+1.  Introduction
+2.  Application Overview
+3.  Web Scraping Component
+4.  Main Features
+5.  Data Flow
+6.  User Interface
+7.  Installation and Setup
+8.  Bibliography
 
 ----------
 
